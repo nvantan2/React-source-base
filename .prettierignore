@@ -1,0 +1,7 @@
+react-app-env.d.ts
+reportWebVitals.ts
+setupTests.ts
+*.png
+*.jpg
+*.ttf
+*.svg
